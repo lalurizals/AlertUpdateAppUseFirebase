@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948217519751",
+    "project_id": "alertupdateappusefirebase",
+    "storage_bucket": "alertupdateappusefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948217519751:android:1391614f87416cb89da222",
+        "android_client_info": {
+          "package_name": "com.example.alertupdateappusefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948217519751-u32jk3271fd55vd2lb0jp7rrdiea8vuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-uCbwlB-aVMKWZiT4EwUv2B1z7HYDMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948217519751-u32jk3271fd55vd2lb0jp7rrdiea8vuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
